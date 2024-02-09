@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I'm Mensavi David and I am a full-stack developer
+## I'm Mensavi David, a full-stack developer
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dm-mensavi?theme=dark)](https://git.io/streak-stats)
 <!--
 **dm-mensavi/dm-mensavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
