@@ -1,10 +1,8 @@
-### Hi there 👋
-## I'm Mensavi David, a full-stack developer
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dm-mensavi&theme=dark)](https://git.io/streak-stats)
-
 # 👋 Hello, I'm David!
 
 🎓 **Computer Science Student** | 🌐 **Full-Stack Web Developer**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dm-mensavi&theme=dark)](https://git.io/streak-stats)
 
 Welcome to my GitHub profile! I'm passionate about crafting digital experiences and bringing ideas to life through code and design. Let's delve into my skill sets and stack.
 
